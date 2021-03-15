@@ -1,3 +1,5 @@
+console.log('it works?');
+
 const names = ['Kriss', 'Peru', 'Karamba'];
 console.log(names);
 
